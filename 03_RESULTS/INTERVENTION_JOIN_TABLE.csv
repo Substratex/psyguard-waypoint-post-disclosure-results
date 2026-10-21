@@ -1,0 +1,12 @@
+source_turn,psiguard_label,aperture_prior_horizon,prior_regime,prior_candidate,prior_formal_t_star,prior_phi,prior_drift,prior_pressure,exact_regime,exact_candidate,exact_formal_t_star,exact_t_star_coordinate,nearest_formal_horizon,absolute_offset_to_nearest_formal,nearest_prior_formal_horizon,offset_from_nearest_prior_formal
+35,intervened,34,Transitional,True,False,0.5376713698063513,0.6889903078244825,0.5074224129664205,Transitional,True,False,,44,9,25,10
+59,intervened,58,Transitional,True,False,0.5742795551726203,0.5785503320081989,0.630705820506916,Transitional,True,False,,56,3,56,3
+61,intervened,60,Transitional,True,False,0.6187427741953176,0.3147102384423313,0.5496009235483059,Transitional,True,False,,62,1,56,5
+151,intervened,150,Transitional,False,False,0.5434448053737548,0.6142481932331892,0.5694300958100715,Transitional,False,False,,157,6,143,8
+158,intervened,157,Collapse,True,True,0.5922315383837832,0.5890057299803858,0.2859536663930103,Transitional,False,False,,157,1,157,1
+160,intervened,159,Transitional,False,False,0.5170373545367234,0.0979733503477364,0.6241306948416733,Stable,False,False,,161,1,157,3
+172,intervened,171,Transitional,True,False,0.6176738178041685,0.0847603336955278,0.4496117171336944,Transitional,True,False,,170,2,170,2
+180,intervened,179,Transitional,True,False,0.5783977734960029,0.0913296916798736,0.6288529293502524,Transitional,True,False,,187,7,170,10
+196,intervened,195,Transitional,True,False,0.5704140165677107,0.251198988864751,0.6836252897810451,Collapse,True,True,196.0,196,0,187,9
+206,intervened,205,Collapse,True,True,0.4851139747087046,0.6539610080734434,0.55885921127728,Transitional,True,False,,205,1,205,1
+228,intervened,227,Transitional,True,False,0.5190716263455902,0.3175441875564537,0.4210113030573795,Transitional,True,False,,229,1,226,2

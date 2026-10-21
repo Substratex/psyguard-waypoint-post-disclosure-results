@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or reference these post-disclosure comparative results, please cite this repository."
+title: "Aperture × PsiGuard — Waypoint T1–T275 Post-Disclosure Comparative Results"
+version: "post-disclosure-v0.1"
+date-released: "2026-10-20"
+authors:
+  - family-names: "Asadi"
+    given-names: "Arjay"
+repository-code: "https://github.com/Substratex/psyguard-waypoint-post-disclosure-results"
+url: "https://github.com/Substratex/psyguard-waypoint-post-disclosure-results"
+abstract: >-
+  Post-disclosure companion repository for the Waypoint T1–T275 blind comparative
+  experiment. It preserves Bradley Carter's native PsiGuard disclosure coordinates,
+  the frozen Aperture references used for comparison, source-turn joins, event-level
+  results, exploratory analysis, claim boundaries, and methodological interpretation.
+keywords:
+  - "SubstrateX Aperture"
+  - "PsiGuard"
+  - "Waypoint"
+  - "Runtime Evidence"
+  - "Longitudinal Computational Dynamics"
+  - "blind comparison"
+  - "prospective replay"
+  - "post-disclosure"
