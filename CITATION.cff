@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use or reference these post-disclosure comparative results, please cite both experimental principals represented in this record."
+title: "Aperture × PsiGuard — Waypoint T1–T275 Post-Disclosure Comparative Results"
+version: "post-disclosure-v0.1.1"
+date-released: "2026-10-21"
+authors:
+  - family-names: "Asadi"
+    given-names: "Arjay"
+    affiliation: "SubstrateX®"
+    website: "https://www.arjayasadi.com/"
+  - family-names: "Carter"
+    given-names: "Bradley"
+    affiliation: "PsiCo, LLC"
+    website: "https://psiguard.net/"
+repository-code: "https://github.com/Substratex/psyguard-waypoint-post-disclosure-results"
+url: "https://github.com/Substratex/psyguard-waypoint-post-disclosure-results"
+abstract: >-
+  Post-disclosure companion repository for the Waypoint T1–T275 blind comparative
+  experiment between SubstrateX Aperture™, developed by Arjay Asadi / SubstrateX®,
+  and PsiGuard, developed by Bradley Carter / PsiCo, LLC. The repository preserves
+  the native PsiGuard disclosure coordinates, frozen Aperture references used for
+  comparison, source-turn joins, event-level results, exploratory analysis, claim
+  boundaries, and methodological interpretation. Aperture and PsiGuard were
+  developed independently and retain separate system, evidentiary, and intellectual-
+  property lineages.
+keywords:
+  - "SubstrateX Aperture"
+  - "PsiGuard"
+  - "PsiCo LLC"
+  - "Bradley Carter"
+  - "Waypoint"
+  - "Runtime Evidence"
+  - "Longitudinal Computational Dynamics"
+  - "blind comparison"
+  - "prospective replay"
+  - "post-disclosure"

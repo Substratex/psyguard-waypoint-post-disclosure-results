@@ -1,0 +1,76 @@
+{
+  "schema": "substratex.aperture.psiguard_waypoint_post_disclosure_repository.v1",
+  "status": "POST_DISCLOSURE_RESULTS_PUBLISHED_FROM_FROZEN_APERTURE_RECORD",
+  "parent_repository": {
+    "current_name": "Substratex/aperture-psiguard-waypoint-blind-study",
+    "original_working_name": "psyguard-waypoint-repo-final",
+    "role": "authoritative pre-disclosure evidence record"
+  },
+  "certified_aperture_run_id": "APERTURE-CER-6753eadcdd506",
+  "canonical_hash": "6753eadcdd5067e0262658efd7ea29d3aa72c599c59a33313f61bac51b2dcedd",
+  "psiguard_coordinates_received": true,
+  "psiguard_coordinate_sha256": "f9e40354af3dc63b6d7bc1103f0361ffffe4720defcb35e3bc46d1628961e6d4",
+  "aperture_recomputed_after_disclosure": false,
+  "aperture_retuned_after_disclosure": false,
+  "join_key": "source_turn",
+  "intervention_turns": [
+    35,
+    59,
+    61,
+    151,
+    158,
+    160,
+    172,
+    180,
+    196,
+    206,
+    228
+  ],
+  "uncertain_turns": [
+    1,
+    2,
+    3,
+    4,
+    178,
+    179
+  ],
+  "no_reading_turns": [
+    21,
+    116,
+    209,
+    210
+  ],
+  "primary_result": "partial prospective structural/temporal correspondence with informative disagreement",
+  "release_tag_recommended": "post-disclosure-v0.1.1",
+  "publication_metadata_revision": {
+    "version": "post-disclosure-v0.1.1",
+    "date": "2026-10-21",
+    "scope": "attribution_citation_and_lineage_only",
+    "scientific_content_changed": false,
+    "frozen_aperture_record_changed": false,
+    "psiguard_disclosure_coordinates_changed": false,
+    "comparison_result_changed": false
+  },
+  "experimental_principals": [
+    {
+      "name": "Arjay Asadi",
+      "organization": "SubstrateX®",
+      "role": "Founding Architect; developer of SubstrateX Aperture™; Aperture-side experimental lead",
+      "system": "SubstrateX Aperture™",
+      "website": "https://www.arjayasadi.com/"
+    },
+    {
+      "name": "Bradley Carter",
+      "organization": "PsiCo, LLC",
+      "role": "Developer of PsiGuard; external comparison collaborator; native PsiGuard record custodian",
+      "system": "PsiGuard",
+      "website": "https://psiguard.net/",
+      "public_attribution_approved": true
+    }
+  ],
+  "system_lineage": {
+    "aperture": "independently developed by Arjay Asadi / SubstrateX®; frozen before PsiGuard coordinate disclosure",
+    "psiguard": "independently developed by Bradley Carter / PsiCo, LLC; native coordinates withheld until after Aperture lock",
+    "comparison": "post-disclosure native source_turn join only; neither system record rewrites the other"
+  }
+}
